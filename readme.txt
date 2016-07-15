@@ -1,1 +1,1 @@
-开源CRM客户管理系统
+Open source CRM system
